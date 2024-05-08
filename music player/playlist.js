@@ -1,12 +1,6 @@
 /*
 ᓚ₍ ^. .^₎
-dragalia.neocities.org
-yap yap YAP
-<div class='musicplayer'></div>
-parts you can style:
 
-
-I use and recommend https://catbox.moe/# to upload audio files!
 
 */
 
